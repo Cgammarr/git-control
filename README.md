@@ -16,4 +16,17 @@ El proyecto consiste en poner 3 Trebuchet Euro3000 en zonas estrategicas de las 
 "Presentaciòn"
 Un trebuchet es un tipo de catapulta que se utilizó como un motor de asedio en la Edad Media. ... El contrapeso trebuchet apareció en tierras cristianas y musulmanas alrededor del Mediterráneo en el siglo XII. Podría lanzar proyectiles que pesaran hasta 350 libras en o en las fortificaciones enemigas.
 
+Instrucciones operativas-
 
+
+
+https://static2.abc.es/media/viajar/2018/09/26/maquinas-asedio-kpBF--1200x630@abc.JPG
+
+Materialñes
+
+Material para construir la catapulta:
+Hierro, 22 mm
+Madera, 7 ms.
+Hormigon 52 kg. .
+
+Pelota de ping pong 
