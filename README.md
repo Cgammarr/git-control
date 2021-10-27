@@ -7,7 +7,7 @@ https%3A%2F%2Ffree3d.com%2Fes%2Fmodelo-3d%2Fmedieval-trebuchet-227.html&psig=AOv
 
 Proyecto Trebuchet Euro3000
 
-1-Presentacion del proyecto.
+### 1.-Presentacion del proyecto.
 El proyecto consiste en poner 3 Trebuchet Euro3000 en zonas estrategicas de las playas de Barcelona como Playa Bogatell, Barceloneta, etc.
 
 2-El Proyecto Constara de Trebuchets mediabales de de estructuras metalicas y modernas con colores acordes a la tipologia del ayuntamiento de Barcelona.
