@@ -2,12 +2,11 @@ Trebuchet Euro3000
 Primer Trebuchet playa de Barcelona
 Solgan: "Barcelona a la catapulta por los aires"
 
-![Trebuchet medieval 3D]
-https%3A%2F%2Ffree3d.com%2Fes%2Fmodelo-3d%2Fmedieval-trebuchet-227.html&psig=AOvVaw2lzo_5xt7PjFmshsn3rOm7&ust=1635406421952000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDB2vmJ6vMCFQAAAAAdAAAAABAD
+![Trebuchet medieval](treb1.png)
 
 Proyecto Trebuchet Euro3000
 
-1-Presentacion del proyecto.
+### 1.-Presentacion del proyecto.
 El proyecto consiste en poner 3 Trebuchet Euro3000 en zonas estrategicas de las playas de Barcelona como Playa Bogatell, Barceloneta, etc.
 
 2-El Proyecto Constara de Trebuchets mediabales de de estructuras metalicas y modernas con colores acordes a la tipologia del ayuntamiento de Barcelona.
