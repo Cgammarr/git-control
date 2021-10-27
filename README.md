@@ -2,7 +2,7 @@ Trebuchet Euro3000
 Primer Trebuchet playa de Barcelona
 Solgan: "Barcelona a la catapulta por los aires"
 
-!(treb1.png)
+![Trebuchet medieval](treb1.png)
 
 Proyecto Trebuchet Euro3000
 
