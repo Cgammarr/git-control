@@ -10,8 +10,10 @@ Proyecto Trebuchet Euro3000
 El proyecto consiste en poner 3 Trebuchet Euro3000 en zonas estrategicas de las playas de Barcelona como Playa Bogatell, Barceloneta, etc.
 
 2-El Proyecto Constara de Trebuchets mediabales de de estructuras metalicas y modernas con colores acordes a la tipologia del ayuntamiento de Barcelona.
+"Nos motiva este proyecto la gran cantidad de jovenes locales como turistas que se pasean por nuestra ciudad buscando diversion ya que Barcelona ofrece seguridad, tranquilidad y amplia diversion".
 
 3-Comenzara a construirse en noviembre de 2021 y se preve su finalizacion en diciembre de 2022 con vistas al Mundial de Futbol.
 "Presentaciòn"
 Un trebuchet es un tipo de catapulta que se utilizó como un motor de asedio en la Edad Media. ... El contrapeso trebuchet apareció en tierras cristianas y musulmanas alrededor del Mediterráneo en el siglo XII. Podría lanzar proyectiles que pesaran hasta 350 libras en o en las fortificaciones enemigas.
+
 
